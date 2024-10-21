@@ -1,0 +1,10 @@
+{
+  "INVALID_HEADER": "Headers in the CSV file are invalid",
+  "INVALID_DATA": "Invalid Data",
+  "ERROR_CREATING_PRODUCT": "Error in uploading the CSV file",
+  "ERROR_CREATING_REQUEST": "Error in creating the request",
+  "PRODUCTS_UPLOADED": "CSV uploaded successfully",
+  "INTERNAL_SERVER_ERROR": "Internal server error",
+  "REQUEST_ID_NOT_FOUND": "Request id not exist",
+  "STATUS_FETCHED": "Status fetched successfully"
+}
